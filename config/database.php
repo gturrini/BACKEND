@@ -1,9 +1,11 @@
 <?php
     class Database {
-        private $host = "10.10.0.41";
+        
+        private $host = "10.10.0.7";
         private $database_name = "AwsomeCommuteDB";
         private $username = "ACUser";
         private $password = "4ws0m3C0MMu73";
+
         public $conn;
         public function getConnection(){
             $this->conn = null;
