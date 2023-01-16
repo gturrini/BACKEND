@@ -3,7 +3,7 @@
 
         
         private $host = "awsomecommutedbcluster.cluster-cpckepgulcag.eu-west-2.rds.amazonaws.com";
-        private $database_name = "AwsomeCommuteDB";
+        private $database_name = "AWSomeCommuteDB";
         private $username = "root";
         private $password = "6pLu5FKasaEhNAk4ofGPyGG6uEVSeJTX";
 
