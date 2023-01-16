@@ -1,5 +1,6 @@
 <?php
     class Database {
+
         
         private $host = "awsomecommutedbcluster.cluster-cpckepgulcag.eu-west-2.rds.amazonaws.com";
         private $database_name = "AwsomeCommuteDB";
