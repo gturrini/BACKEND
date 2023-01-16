@@ -1,10 +1,10 @@
 <?php
     class Database {
         
-        private $host = "10.10.0.7";
+        private $host = "awsomecommutedbcluster.cluster-cpckepgulcag.eu-west-2.rds.amazonaws.com";
         private $database_name = "AwsomeCommuteDB";
-        private $username = "ACUser";
-        private $password = "4ws0m3C0MMu73";
+        private $username = "root";
+        private $password = "6pLu5FKasaEhNAk4ofGPyGG6uEVSeJTX";
 
         public $conn;
         public function getConnection(){
